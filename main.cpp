@@ -4,8 +4,8 @@ using namespace std;
 
 int main()
 {
-
-    cout<<"codespace";
+   cout<<"codespace\n";
+cout<<"hello world\n";
 
     return 0;
 }
